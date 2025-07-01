@@ -52,7 +52,7 @@ Hi there 👋 I'm Mayank Patel!
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="[linkedin.com/in/mayank-patel-833776286](https://www.linkedin.com/in/mayank-patel-833776286?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBsG2%2F4UJQZGA8npOnCxDJw%3D%3D)" target="_blank">
+  <a href="https://www.linkedin.com/in/mayank-patel-833776286?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBsG2%2F4UJQZGA8npOnCxDJw%3D%3D" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:27.mayankpatel@gmail.com">
