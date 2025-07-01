@@ -59,7 +59,7 @@ Hi there 👋 I'm Mayank Patel!
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="mayank-patel-7.github.io/Mayank_Portfolio/" target="_blank">
-    <img src="https://mayank-patel-7.github.io/Mayank_Portfolio/assets/images/web_profile_pic.png" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
